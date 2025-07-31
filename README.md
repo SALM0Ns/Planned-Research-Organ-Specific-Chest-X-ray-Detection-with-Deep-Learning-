@@ -1,0 +1,2 @@
+# Planned-Research-Organ-Specific-Chest-X-ray-Detection-with-Deep-Learning-
+Planned Research: Organ-Specific Chest X-ray Detection with Deep Learning  Proposed Supervisor: Acting Sub Lt. Dr. Chaichana Kulworatit, Ph.D. Affiliation of Supervisor: King Mongkut’s Institute of Technology Ladkrabang (KMITL) Affiliation of Researcher: Kasetsart University, Faculty of Science, Department of Computer Science
